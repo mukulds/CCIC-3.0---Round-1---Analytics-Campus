@@ -1,4 +1,4 @@
-# CCIC-3.0---Round-1---Analytics-Campus
+# CCIC-3.0- Round-1-Analytics-Campus by Citi Bank [Team Rank-20]- HackerEarth
 Analytics Challenge by Citi Bank
 
 Public Leaderboard. Each team consisted of 3 individuals. Got top 20 team rank (My rank 61)
